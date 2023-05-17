@@ -1,0 +1,11 @@
+.postContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.renderContainer {
+  margin: auto;
+  background-color: lightgray;
+}
